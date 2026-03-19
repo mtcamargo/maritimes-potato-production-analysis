@@ -95,4 +95,4 @@ The analysis integrates:
 git clone https://github.com/YOUR_USERNAME/maritimes-potato-production-analysis.git
 cd maritimes-potato-production-analysis
 
-**### 2.Set up environment**
+### 2. Setup environment
