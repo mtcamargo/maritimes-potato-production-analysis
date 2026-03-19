@@ -94,3 +94,5 @@ The analysis integrates:
 ```bash
 git clone https://github.com/YOUR_USERNAME/maritimes-potato-production-analysis.git
 cd maritimes-potato-production-analysis
+
+**### 2.Set up environment**
