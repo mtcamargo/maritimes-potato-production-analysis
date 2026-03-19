@@ -96,3 +96,34 @@ git clone https://github.com/YOUR_USERNAME/maritimes-potato-production-analysis.
 cd maritimes-potato-production-analysis
 
 ### 2. Setup environment
+# Create a virtual environment (optional)
+python -m venv venv
+
+# Activate environment
+# Windows:
+venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+### 3. Prepare API keys
+# Create a .env file in the project root
+# Add your OpenAI API key
+OPENAI_API_KEY="your_openai_api_key_here"
+
+### 4. Run data preprocessing
+python src/data_preprocessing.py
+
+### 5. Train machine learning models
+python src/train_models.py
+
+### 6. Evaluate models
+python src/evaluate_models.py
+
+### 7. Generate automated AI report
+python src/genai_reporting.py
+
+### 8. Explore results
+jupyter notebook maritimes-potato-production-analysis.ipynb
