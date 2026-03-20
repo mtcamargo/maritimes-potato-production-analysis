@@ -2,6 +2,17 @@
 
 # Python 3.13.9
 
+## 🎥 Walkthrough Video
+
+A 5–7 minute walkthrough demonstrating the project:
+
+- Data processing  
+- Machine learning models  
+- Results and insights  
+- Generative AI integration  
+
+👉 [Watch the video here](https://drive.google.com/file/d/1idzf28tHoNsDLHhQy3MQObh76f2JAmkr/view?usp=sharing)
+
 ## 📌 Overview
 This project analyzes potato production trends in Atlantic Canada and evaluates how climate conditions influence agricultural output and disease risk.
 
